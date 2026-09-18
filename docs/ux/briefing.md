@@ -1,8 +1,8 @@
 # BRIEFING DEL PROYECTO
 
-**Proyecto:** EtiquetaClara
+**Proyecto:** EtiquetaClara (Lector de Nutrición)
 **Grupo consultor:** ____________________ 
-**Integrantes:** _Andrea valentina ochoa Andres felipe velez_
+**Integrantes:** Andrea valentina ochoa Andres felipe velez
 **Grupo cliente:** ______________________ 
 **Entrevistado:** ____________________
 **Fecha:** ______________
